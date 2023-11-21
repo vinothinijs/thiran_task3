@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926669271574",
+    "project_id": "bloc-firestore-ticket-988",
+    "storage_bucket": "bloc-firestore-ticket-988.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926669271574:android:8ef64ce05433a5b25f3b37",
+        "android_client_info": {
+          "package_name": "com.example.bloc_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLrpGRqvzWAhxlcjgouxVeCrC3so1FsfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
